@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8"/>
+		<meta charset="utf-8">
 		<title>HTML Sandbox</title>
 	</head>
 	<body>
 		<h1>This is my web page</h1>
+
 		<table>
 			<tr>
 			<th>Cats</th>
@@ -35,12 +36,12 @@
 		</ul>
 
 		<h2>things to do today</h2>
-		<o1>
+		<ol>
 			<li>feed the kitty</li>
 			<li>give dylan a hard time</li>
 			<li>water the plants</li>
 			<li>hack vulnerabilities</li>
-		</o1>
+		</ol>
 
 
 
