@@ -7,16 +7,22 @@
 	<body>
 		<h1>This is my web page</h1>
 		<table>
-			<th>
-			<td>Cats</td>
-			<td>Dogs</td>
-			</th>
+			<tr>
+			<th>Cats</th>
+			<th>Dogs</th>
+			</tr>
 			<tr>
 				<td>Persian</td>
 				<td>Beagle</td>
 			</tr>
-			<tr></tr>
-			<tr></tr>
+			<tr>
+				<td>Persian</td>
+				<td>Beagle</td>
+			</tr>
+			<tr>
+				<td>Siamese</td>
+				<td>German Shepard</td>
+			</tr>
 		</table>
 	</body>
 </html>
