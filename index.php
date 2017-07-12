@@ -24,5 +24,25 @@
 				<td>German Shepard</td>
 			</tr>
 		</table>
+
+		<!-- this is a html comment -->
+
+		<h2>A few of my favorite things</h2>
+		<ul>
+			<li>tacos</li>
+			<li>the beach</li>
+			<li>fast cars</li>
+		</ul>
+
+		<h2>things to do today</h2>
+		<o1>
+			<li>feed the kitty</li>
+			<li>give dylan a hard time</li>
+			<li>water the plants</li>
+			<li>hack vulnerabilities</li>
+		</o1>
+
+
+
 	</body>
 </html>
