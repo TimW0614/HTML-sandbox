@@ -17,8 +17,8 @@
 				<td>Beagle</td>
 			</tr>
 			<tr>
-				<td>Persian</td>
-				<td>Beagle</td>
+				<td>maine coon</td>
+				<td>Bull Dog</td>
 			</tr>
 			<tr>
 				<td>Siamese</td>
@@ -28,7 +28,7 @@
 
 		<!-- this is a html comment -->
 
-		<h2>A few of my favorite things</h2>
+		<h2 class="red-heading heading text green">A few of my favorite things</h2>
 		<ul>
 			<li>tacos</li>
 			<li>the beach</li>
@@ -45,6 +45,8 @@
 
 		<h2> I<3 Pikachu</h2>
 		<img src="images/pikachu.png" alt="pikachu"/>
+
+
 
 
 
