@@ -43,6 +43,10 @@
 			<li>hack vulnerabilities</li>
 		</ol>
 
+		<h2> <3 Pikachu</h2>
+		<img src="images/pikachu.png">
+
+
 
 
 	</body>
